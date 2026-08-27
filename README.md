@@ -4,6 +4,8 @@
 
 I like turning difficult engineering constraints into practical systems: keeping sensitive data local, making async workloads reliable, and documenting how software behaves under real conditions.
 
+> The projects highlighted here are maintained by me. I use AI coding assistants as development tools for implementation, testing, and documentation; I make the final technical decisions and review the work.
+
 ## What I build
 
 - Privacy-first AI platforms with local inference and PII protection
