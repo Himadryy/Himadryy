@@ -18,7 +18,7 @@ Air-gapped enterprise AI architecture for sensitive environments. PII is redacte
 
 **Focus:** Python, FastAPI, Haystack, Qdrant, Presidio, Docker, Ollama
 
-### [Project Aegis](https://github.com/Himadryy/auto-mod-tydry)
+### [Project Aegis](https://github.com/Himadryy/auto-mod-bot)
 Rust-based Discord security and moderation system designed for high-volume event handling, Redis-backed rate limiting, and privacy-preserving local AI threat analysis.
 
 **Focus:** Rust, Tokio, Twilight, Redis, PostgreSQL, Ollama
